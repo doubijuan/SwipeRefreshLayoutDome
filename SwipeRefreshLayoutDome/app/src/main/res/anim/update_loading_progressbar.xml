@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--画面转移旋转动画效果：以组件的中点为中心顺时针从0度旋转到720度-->
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@mipmap/default_ptr_rotate_gray"
+    android:duration="700"
+    android:fromDegrees="0"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:toDegrees="720" />

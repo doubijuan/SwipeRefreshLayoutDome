@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 灰色 -->
+    <color name="grey">#FF999999</color>
+    <!--头部刷新时候的四种颜色-->
+    <color name="refresh_color_1">#ff00ddff</color>
+    <color name="refresh_color_2">#ff99cc00</color>
+    <color name="refresh_color_3">#ffffbb33</color>
+    <color name="refresh_color_4">#ffff4444</color>
+</resources>
